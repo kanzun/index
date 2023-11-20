@@ -2,5 +2,7 @@
 
 div {
 /*     list-style-type: none; */
-    text-align: center;
+/*     text-align: center; */
+    display:block;
+    margin: auto;
 }
