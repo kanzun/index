@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-li {
+ol {
     list-style-type: none;
     text-align: center;
 }
