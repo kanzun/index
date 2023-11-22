@@ -6,3 +6,7 @@
   display:block;
     margin: auto; 
 } */
+
+.line{
+    border-bottom: 7px solid gray;
+}
