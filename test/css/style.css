@@ -11,6 +11,10 @@
     border-bottom: 7px solid gray;
 }
 
+nav{
+    width: auto;
+}
+
 .menu{
     display: flex;
     margin-left: auto;
