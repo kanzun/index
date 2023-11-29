@@ -15,17 +15,17 @@ nav{
     width: 200px;
 }
 
+
+li{
+    list-style: none;
+}
+
 .menu{
     display: flex;
     margin-left: auto;
     text-align: right;
     justify-content: flex-end;
 }
-
-li{
-    list-style: none;
-}
-
 
 /* .iro{
     background-color: #4169e1;
