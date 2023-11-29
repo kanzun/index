@@ -17,14 +17,13 @@ nav{
 
 .menu{
     display: flex;
-    list-style: none;
     margin-left: auto;
     text-align: right;
     justify-content: flex-end;
 }
 
-.menu li a{
-    padding: auto;
+li{
+    list-style: none;
 }
 
 
