@@ -12,12 +12,12 @@
 }
 
 nav{
-    width: 100px;
+    width: 200px;
 }
 
 .menu{
     display: flex;
-    list-style-type: none;
+    list-style: none;
     margin-left: auto;
     text-align: right;
     justify-content: flex-end;
