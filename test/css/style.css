@@ -27,6 +27,10 @@ li{
     justify-content: flex-end;
 }
 
+a{
+    text-decoration: none;
+}
+
 /* .iro{
     background-color: #4169e1;
 } */
