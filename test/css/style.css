@@ -15,9 +15,10 @@
     display: flex;
     margin-left: auto;
     text-align: right;
+    justify-content: flex-end;
 }
 
-.menu li{
+.menu li a{
     list-style-type: none;
     padding: auto;
 }
