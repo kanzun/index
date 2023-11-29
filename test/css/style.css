@@ -10,6 +10,11 @@
 .line{
     border-bottom: 7px solid gray;
 }
+
+nav{
+    list-style-type: none;
+    text-align right;
+}
 /* .iro{
     background-color: #4169e1;
 } */
