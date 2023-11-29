@@ -14,8 +14,11 @@
 nav{
     display: inline;
     list-style-type: none;
-    text-align right;
+    margin-left: auto;
+    text-align: right;
 }
+
+
 /* .iro{
     background-color: #4169e1;
 } */
